@@ -1,0 +1,12 @@
+flask
+requests
+gitpython
+langchain-groq
+langchain-core
+chromadb
+sentence-transformers
+Pillow
+gTTS
+moviepy
+rich
+gunicorn
